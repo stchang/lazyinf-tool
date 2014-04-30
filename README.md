@@ -1,5 +1,7 @@
 ## Laziness static analysis tool
 
+Requires Racket v5.3 or higher.
+
 Examples from ESOP2013 paper, in `examples-esop2013` directory:
 
 ### Run these files to see the effect of different amounts of laziness:
